@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="groups">Groups</string>
+    <string name="name">Name</string>
+    <string name="delete_icon_description">Hold to delete row</string>
+
+</resources>
